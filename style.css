@@ -13,3 +13,11 @@
 .cat3 {
     background: linear-gradient(to right, rgb(52, 76, 254), rgb(63, 33, 255));
 }
+
+.category {
+    background-color: #F4F4F4;
+}
+
+.th {
+    background-color: #FFFFFF;
+}
