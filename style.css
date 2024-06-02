@@ -1,3 +1,15 @@
-.row {
+.slider {
     background-color: #FEEAE9;
+}
+
+.cat1 {
+    background-image: linear-gradient(to right, #FF9C35, #FFD019);
+}
+
+.cat2 {
+    background: linear-gradient(to right, rgb(246, 100, 175), rgb(236, 69, 133));
+}
+
+.cat3 {
+    background: linear-gradient(to right, rgb(52, 76, 254), rgb(63, 33, 255));
 }
